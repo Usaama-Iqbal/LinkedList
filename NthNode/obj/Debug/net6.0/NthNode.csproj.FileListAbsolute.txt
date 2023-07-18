@@ -1,0 +1,15 @@
+E:\Project\LeetCode\NthNode\NthNode\bin\Debug\net6.0\NthNode.exe
+E:\Project\LeetCode\NthNode\NthNode\bin\Debug\net6.0\NthNode.deps.json
+E:\Project\LeetCode\NthNode\NthNode\bin\Debug\net6.0\NthNode.runtimeconfig.json
+E:\Project\LeetCode\NthNode\NthNode\bin\Debug\net6.0\NthNode.dll
+E:\Project\LeetCode\NthNode\NthNode\bin\Debug\net6.0\NthNode.pdb
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\NthNode.csproj.AssemblyReference.cache
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\NthNode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\NthNode.AssemblyInfoInputs.cache
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\NthNode.AssemblyInfo.cs
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\NthNode.csproj.CoreCompileInputs.cache
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\NthNode.dll
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\refint\NthNode.dll
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\NthNode.pdb
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\NthNode.genruntimeconfig.cache
+E:\Project\LeetCode\NthNode\NthNode\obj\Debug\net6.0\ref\NthNode.dll
